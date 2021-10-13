@@ -1,0 +1,124 @@
+body {
+    background-color: rgb(67, 211, 255);
+    max-width: 100%;
+    margin: 0 auto;
+  
+}
+text {
+    color: ghostwhite;padding: auto;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
+
+p {
+      size: 100px;
+}
+
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+} 
+
+p {
+    box-sizing: content-box;
+
+
+}
+
+
+.container {
+    position: relative;
+    padding: auto;
+    
+  }
+  
+ 
+ .text-block {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: rgb(255, 255, 255);
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  
+  
+  
+
+
+.textfeld {
+    background-color:rgb(253, 222, 44);
+    width: 400px;
+    height: 150px;
+    padding: 10px;
+    margin: 60px;
+    
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+.nb  { 
+  
+  text-align: center; 
+
+ background-color: #0b5d946e; 
+ background-repeat: repeat-x; 
+ border-bottom: 0px inset #28a9e6; 
+ height: 60px; 
+ color:#000000;
+ width: 100%; 
+ text-align: left; 
+}
+
+
+
+.nl { 
+ font-family: Arial, Helvetica, sans-serif; 
+ font-size: 13px; 
+ padding-left:20px;
+ padding-top:1px;
+}
+.nl a, .nla:link, .nl a:visited, .nl a:active { 
+ text-decoration:none; 
+ color: #ffffff; 
+ padding: 0 5px 0 5px; 
+}
+.nl a:hover { 
+ color: #D9581F;
+}
+a:link, a:visited {
+    text-decoration: none;
+   }
+
+
+
+   .textfeld2 {
+    background-color:rgb(253, 222, 44);
+    width: 400px;
+    height: 150px;
+    padding: 10px;
+    margin: 60px;}
+
+    .text-block5 {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      color: rgb(255, 255, 255);
+    }
+    
+    
+    
+html
+{
+  max-width: 100%;
+    margin: 0 auto;
+}
